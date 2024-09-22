@@ -1,0 +1,3 @@
+<Malayalam>< Malayalam><https://iptv-org.github.io/iptv/languages/mal.m3u>
+<Tamil>< Tamil><https://iptv-org.github.io/iptv/languages/tam.m3u>
+<India>< India><https://iptv-org.github.io/iptv/countries/in.m3u>
